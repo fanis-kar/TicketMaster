@@ -1,0 +1,17 @@
+*.suo
+*.lock
+.vs/
+TicketMaster/bin/
+TicketMaster/obj/
+Data/bin/
+Data/obj/
+Business/bin/
+Business/obj/
+Api/bin/
+Api/obj/
+ApiTests/obj/
+IntegrationTests/bin/
+IntegrationTests/obj/
+UnitTests/bin/
+UnitTests/obj/
+TestResults/
